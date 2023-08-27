@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hlimajunior
 - 👀 I’m interested in Software Development, aquarium, rubiks cube...
-- 🌱 I’m currently learning Python, Flask, SqlAlchemy, and more.
+- 🌱 I’m currently learning NextJs, React, Python, Flask, SqlAlchemy, and more.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hlimajunior@gmail.com, Instagram @hlimajunior
 
